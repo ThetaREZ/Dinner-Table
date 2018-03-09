@@ -1,3 +1,5 @@
 Fork.
 
 There's a fork in your branch.
+
+This fork is used to kill vampires so it needs to be made out of silver.
